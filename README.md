@@ -2,7 +2,7 @@ Redes de Computadores
 ====================
 Repositório da Disciplina de Redes de Computadores
 
-## Ano Letivo: 2017
+
 **Ementa:**
 > Estrutura de redes. Modelo OSI estrutura de camadas. Modelo de referência TCP/IP, IPv4, Introdução ao IPv6. Camada física. Padrão IEEE 802.x. Interconexão de redes. Repetidores. Hubs. Switches. Sub-redes. Redes Wi-Fi. Firewall. DHCP. Servidor DNS. Serviço NIS. Virtualização. Servidor HTTP. Serviço Samba, VPN
 
